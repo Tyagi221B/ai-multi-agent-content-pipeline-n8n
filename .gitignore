@@ -1,0 +1,12 @@
+# Environment variables
+.env
+
+# n8n data
+.n8n/
+
+# Docker volumes (managed by Docker)
+postgres_data/
+n8n_data/
+
+# Logs
+*.log
